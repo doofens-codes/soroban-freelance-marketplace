@@ -65,7 +65,7 @@ soroban contract deploy \
 - `raise_dispute()` - Either party can raise dispute
 - `resolve_dispute()` - Admin resolves with split percentage
 
-## 📸 Deployment
+## 📸 Contract Screenshot
 
 ![Deployment Screenshot](./deployed_status.png)
 
