@@ -66,6 +66,7 @@ soroban contract deploy \
 - `resolve_dispute()` - Admin resolves with split percentage
 
 ## 📸 Contract Details
+Contract : CDDUNHUIRCJEH5X6LEIQ5T4BPUJNQTRI6XRSDY3LJKCCJTDWHPWRCPVW
 
 ![ContractScreenshot](./contractscreenshot.png)
 
